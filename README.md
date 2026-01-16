@@ -16,11 +16,20 @@
 更好地保护个人信息，减少黑客攻击的风险
 支持设置一次性使用，提高安全性
 
-## 平台主界面
+## 注册主界面
 
-<img width="1628" height="782" alt="1" src="https://github.com/user-attachments/assets/8dcc4951-21ed-4b6a-8227-a8b0b76b799e" />
+<img width="575" height="813" alt="zuce" src="https://github.com/user-attachments/assets/64327830-f8be-4c2f-86fa-cbc4f018b3ee" />
+
+<img width="1628" height="782" alt="屏幕截图 2026-01-06 185358" src="https://github.com/user-attachments/assets/825e5d76-914f-48bc-917f-9723060b6150" />
+
+
 
 [注册PFCcard入口](https://payforcard.com)
+
+## 主要卡号和用途选择
+
+<img width="1634" height="869" alt="屏幕截图 2026-01-06 185532" src="https://github.com/user-attachments/assets/b63383d0-a0eb-43a0-935a-22aa5b4f85ef" />
+
 
 ## 平台什么时候建立的
 
@@ -71,8 +80,9 @@
     4. 咨询服务完善：各场景均配备专属咨询入口，及时响应用户选择疑问，提升使用体验； 
     5. 支持 USDT 充值：适配虚拟货币充值需求，为有 USDT 支付习惯的用户提供便捷选择。 
 
-## 注册入口
+## 关键词
 
-[PFCcard](https://payforcard.com)
+[PFCcard](https://payforcard.com)、[Visa 卡](https://payforcard.com)、[Master 卡](https://payforcard.com)、[usdt结算卡](https://payforcard.com)、[国际信用卡](https://payforcard.com)、[ustd发卡平台](https://payforcard.com)、[vcc购买平台](https://payforcard.com)、[虚拟卡预付卡](https://payforcard.com)、[OpenAi 开通](https://payforcard.com)、[ChatGPT 开通](https://payforcard.com)、[可充值 USDT 入金](https://payforcard.com)、[币圈出入金](https://payforcard.com)、[海外虚拟信用卡](https://payforcard.com)、
+
 
 
