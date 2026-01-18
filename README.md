@@ -18,20 +18,16 @@
 
 ## 注册主界面
 
-<img width="575" height="813" alt="zuce" src="https://github.com/user-attachments/assets/1540895f-0472-48d3-a2bd-541992ebe842" />
+<img width="1646" height="910" alt="1" src="https://github.com/user-attachments/assets/382b4d4c-8f7d-4b82-84a0-3dcae175c190" />
 
-<img width="2825" height="1511" alt="1" src="https://github.com/user-attachments/assets/f0324590-717f-44e9-a627-d756ec1cb0e3" />
+<img width="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/f76daf39-8e14-4862-83a6-94ff0e906db6" />
 
-[注册PFC入口](https://payforcard.com)
+
+[注册PFC入口](https://payforcard.com/auth?invite=INV7309B065)
 
 ## 主要卡号和用途选择
 
-<img width="2802" height="1519" alt="2" src="https://github.com/user-attachments/assets/ba12e02c-1e99-429e-821c-f038bb55e86f" />
-
-
-## 平台什么时候建立的
-
-不早于2025年9月
+<img width="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/1ef6b157-2feb-450e-a38d-c6969267a6a4" />
 
 ## 开卡费
 
@@ -54,17 +50,21 @@
     4. 移动支付：绑定 Apple Pay、微信、支付宝、华为钱包、小米钱包等后，可在支持对应支付方式的场景使用。 
     5. 其他场景：旅游消费、软件工具订阅、APP 内购买等。
 
- ##  申请要求
+##  申请要求
 
- 无需手机号注册，无需手机号注册
+无需手机号注册，邮箱注册即可
 
- ## 充值方法
+## 充值方法
 
     1. 登录PayforCard账号后，进入首页面，点击 “充值” 按钮。 
-    2. 输入充值金额（需满足最低 100 U 的要求，开卡需100U保证金）。 
+    2. 输入充值金额（需满足最低 100 U 的要求，开卡需100U保证金）。注： 
     3. 选择支付方式（目前仅支持 USDT（TRC20）转账）。 
     4. 按照系统提示的转账地址完成转账操作，需在 30 分钟内完成充值。 
     5. 系统自动确认到账，确认时间约 2 分钟，超过 30 分钟未入账可联系在线客服查询。
+
+<img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/bdd9988b-d90f-4cd5-8dab-ea1463840da4" />
+
+注：开卡订单提交后，保证金系统自动退还，只扣除开卡费
 
 ## 是否有实体卡
 
@@ -77,9 +77,10 @@
     3. 开卡流程便捷：开卡仅需 4 步，预计耗时 1-2 分钟，操作简单高效，降低用户使用门槛； 
     4. 咨询服务完善：各场景均配备专属咨询入口，及时响应用户选择疑问，提升使用体验； 
     5. 支持 USDT 充值：适配虚拟货币充值需求，为有 USDT 支付习惯的用户提供便捷选择。 
+    6. 邀请好友注册还获得好友消费金额10%的返佣。
 
 ## 注册入口
 
-[PFC](https://payforcard.com)
+[PFC](https://payforcard.com/auth?invite=INV7309B065)
 
 
